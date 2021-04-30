@@ -1,0 +1,19 @@
+{
+  "name": "spotify-extractor",
+  "version": "1.0.4",
+  "description": "An Unofficial Spotify API Client To Easily Extract Information From A Spotify URL",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "spotify-uri": "^2.2.0",
+    "spotify-web-api-node": "^5.0.2"
+  },
+  "author": "moquent",
+  "license": "ISC",
+  "keywords": [
+    "spotify",
+    "spotify-link",
+    "spotify-api",
+    "spotify-extractor"
+  ]
+}
