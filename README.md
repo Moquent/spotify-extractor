@@ -116,4 +116,4 @@ await Spotify.spotifyApi
 To contribute into this package, pull requests can be done at https://github.com/Moquent/spotify-extractor
 
 ## License
-[ISC](https://choosealicense.com/licenses/isc/)
+[ISC](https://github.com/Moquent/spotify-extractor/blob/main/LICENCE.md/)
