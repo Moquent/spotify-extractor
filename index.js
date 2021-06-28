@@ -1,4 +1,4 @@
-const SpotifyAPI = (function () {
+let SpotifyAPI = (function () {
     /**
      * Creates an instance of the wrapper
      * @constructor
@@ -128,6 +128,7 @@ const SpotifyAPI = (function () {
     };
 
     return Constr;
-})();
+})
+SpotifyAPI = SpotifyAPI();
 
 module.exports = SpotifyAPI;
